@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qbWInEUsciGnLxdZ/urb+dedEujYQtwBux4Vr4p/+q4=",
+  "Source": "EncryptionAesAPI",
+  "BasePath": "_content/EncryptionAesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
